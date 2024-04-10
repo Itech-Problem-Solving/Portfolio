@@ -146,7 +146,7 @@ const SectionWrapper = (Component, idName) =>
             <div
               className="absolute inset-0 flex justify-end m-3 card-img_hover"
             >
-              <div
+              {/* <div
                 onClick={() => window.open
                 (source_code_link, "_blank")}
                 className="black-gradient w-8 h-8 rounded-full flex justify-center items-center cursor-pointer"
@@ -156,7 +156,7 @@ const SectionWrapper = (Component, idName) =>
                 alt="github"
                 className="w-15 h-15 object-contain"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
   
