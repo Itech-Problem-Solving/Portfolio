@@ -83,7 +83,7 @@ const introduction = {
   text: [
     "Hello Everyone, Welcome to my Portfolio Page!",
 
-		"I'm Roman Liakhovych, a seasoned senior full stack developer with over 9 years of experience in the software development industry. I specialize in building robust, scalable, and efficient web applications. With a strong background in both frontend and backend technologies, I bring a wealth of knowledge and expertise to any development project.",
+		"As a seasoned senior full stack developer with over 9 years of hands-on experience in the software development industry. I specialize in building robust, scalable, and efficient web applications. With a strong background in both frontend and backend technologies, I bring a wealth of knowledge and expertise to any development project.",
 
     "Frontend Development Skills: React, Angular, Vue, JavaScript, TypeScript, Tailwind CSS, Sass",
     
