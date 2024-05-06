@@ -27,6 +27,7 @@ import {
   cssIcon,
   jsIcon,
   reactIcon,
+  vueIcon,
   awsIcon,
   javaIcon,
   gitIcon,
@@ -52,6 +53,7 @@ const media = {
   cssIcon,
   jsIcon,
   reactIcon,
+  vueIcon,
   awsIcon,
   javaIcon,
   gitIcon,
@@ -164,6 +166,13 @@ const skills = [
     icon: reactIcon,
     description:
       'I am well-versed in React, proficient in creating reusable components and managing application state using hooks and context.',
+  },
+  {
+    id: 'vue',
+    title: 'Vue',
+    icon: vueIcon,
+    description:
+      "I am proficient in Vue with a strong background with vue's components based architecture and reactive data-bindng.",
   },
   {
     id: 'java',
