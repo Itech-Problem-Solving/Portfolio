@@ -16,6 +16,7 @@ import cssIcon from './tech/css.png';
 import jsIcon from './tech/javascript.png';
 import reactIcon from './tech/reactjs.png';
 import vueIcon from './tech/vue.svg';
+import angularIcon from './tech/angular.svg';
 import awsIcon from './tech/aws.png';
 import javaIcon from './tech/java.png';
 import gitIcon from './tech/git.png';
@@ -47,6 +48,7 @@ export {
   jsIcon,
   reactIcon,
   vueIcon,
+  angularIcon,
   awsIcon,
   javaIcon,
   gitIcon,
