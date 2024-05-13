@@ -28,6 +28,7 @@ import {
   jsIcon,
   reactIcon,
   vueIcon,
+  angularIcon,
   awsIcon,
   javaIcon,
   gitIcon,
@@ -54,6 +55,7 @@ const media = {
   jsIcon,
   reactIcon,
   vueIcon,
+  angularIcon,
   awsIcon,
   javaIcon,
   gitIcon,
@@ -172,7 +174,14 @@ const skills = [
     title: 'Vue',
     icon: vueIcon,
     description:
-      "I am proficient in Vue with a strong background with vue's components based architecture and reactive data-bindng.",
+      "I am certified in Vue Frontend development and an expert Vue developer with a deep understanding of its reactive architecture, component-based approach, and proficiency in leveraging Vue Router and Vuex for building scalable and efficient web applications.",
+  },
+  {
+    id: 'angular',
+    title: 'Angular',
+    icon: angularIcon,
+    description:
+      "I am proficient in Angular with a strong background with Angular's Two-way Data Binding and Dependency Injection.",
   },
   {
     id: 'java',
