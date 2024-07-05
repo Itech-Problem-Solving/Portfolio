@@ -44,6 +44,8 @@ import {
   petplate,
   hellotax,
   conectar,
+  eruit,
+  comechat,
   avatar,
 } from '../assets';
 
@@ -91,7 +93,7 @@ const introduction = {
 
     "Frontend Development Skills: React, Angular, Vue, JavaScript, TypeScript, Tailwind CSS, Sass",
     
-    "Backend Development Skills: .NET(ASP .NET MVC, ASP.NET Core), Node(Express), Python(Django, Flask), PHP(Laravel, Symfony), Java(Spring Boot), Ruby on Rails",
+    "Backend Development Skills: .NET(.NET Framework, ASP.NET Core), Node(Express), Python(Django, Flask), PHP(Laravel, Symfony), Java(Spring Boot), Ruby on Rails",
     "Additional Tech Skills: Docker, Kubernetes, AWS(Lambda, S3, RDS), Azure(App Service, SQL Database), Google Cloud Platform "
   ],
 };
@@ -129,10 +131,10 @@ const projects = [
     demo_link: 'https://www.petplate.com/',
   },
   {
-    name: "Conectar",
-    description: 'Conectar is an e-learning platform that connects people looking to learn English to professional native English speakers. We had to bring the entire classroom experience to the web and make it feel as immersive as possible.',
-    image: conectar,
-    demo_link: 'https://www.facebook.com/ConectarLLC/',
+    name: "Comechat",
+    description: 'CometChat is a platform that provides customizable SDKs and APIs for integrating real-time messaging and calling features into applications, supporting various technologies and offering advanced functionalities like message threading, reactions, and comprehensive moderation tools.',
+    image: comechat,
+    demo_link: 'https://www.cometchat.com/',
   },
 ];
 

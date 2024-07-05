@@ -10,7 +10,7 @@
 import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
-  const name = "Roman?";
+  const name = "Full Stack Developer";
 
   return (
     <div
@@ -30,7 +30,7 @@ const HeroText = () => {
             whileInView={{ x: 0 }}
             transition={{ duration: 0.6, type: "spring" }}
           >
-            Who's{" "}
+            Talented{" "}
           </m.span>
           <m.div
             initial={{ x: 100 }}
@@ -45,7 +45,7 @@ const HeroText = () => {
                 <span
                   key={index}
                   className="text-primary-400 bounce"
-                  style={{ fontSize: "1.2em" }}
+                  style={{ fontSize: "0.5em" }}
                 >
                   {char}
                 </span>

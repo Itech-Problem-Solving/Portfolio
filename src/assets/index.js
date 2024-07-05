@@ -36,6 +36,8 @@ import menu from './menu.svg';
 import petplate from './projects/petplate.png';
 import hellotax from './projects/hellotax.png';
 import conectar from './projects/conectar.png';
+import eruit from './projects/eruit.png';
+import comechat from './projects/comechat.png';
 
 // Avatar
 import avatar from './avatar/avatar.png';
@@ -64,6 +66,8 @@ export {
   petplate,
   hellotax,
   conectar,
+  eruit,
+  comechat,
   avatar,
   icon,
 };
